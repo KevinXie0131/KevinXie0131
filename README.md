@@ -1,5 +1,4 @@
-# Hi 👋 I'm Kevin
+# Hi, I'm Kevin
 
-- 🌱 Learning Python
+- 🌱 Learning AI
 - 💼 Working in Canada
-- 📊 Interested in finance
